@@ -1,6 +1,6 @@
 # Clone da Netflix
 
-Esse projeto foi feito como exercício pra praticar HTML, CSS e um pouco de JavaScript. A ideia era recriar a tela inicial da Netflix, focando mais na parte visual.
+Esse projeto foi feito durante uma aula prática do DevClub, pra treinar HTML, CSS e um pouco de JavaScript. A proposta era recriar a tela inicial da Netflix, focando mais na parte visual e responsiva.
 
 ## Tecnologias usadas
 - HTML
@@ -26,5 +26,9 @@ Esse projeto foi feito como exercício pra praticar HTML, CSS e um pouco de Java
 ├── /audio
 └── /video
 ```
+
+## Créditos
+Projeto feito com base nas aulas do **DevClub**.
+
 ## Status do projeto
 Concluído.
